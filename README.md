@@ -1,5 +1,5 @@
 # myrtckit
-metaLivekit是由Zlmediakit和metaRTC联手打造的全栈webRTC解决方案，可快速建立视频会议/直播互动/AI等多种音视频应用。
+myrtckit是由Zlmediakit和metaRTC联手打造的全栈webRTC解决方案，可快速建立视频会议/直播互动/AI等多种音视频应用。
 
 # New Feature
 ## Sfu(zlm)
