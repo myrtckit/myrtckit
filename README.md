@@ -2,7 +2,7 @@
 myrtckit是由Zlmediakit和metaRTC联手打造的全栈webRTC解决方案，可快速建立视频会议/直播互动/AI等多种音视频应用。
 
 # New Feature
-## Sfu(zlm)
+## Sfu(ZLMediaKit)
   * 集成mqtt等信令服务
   * 服务端会议录制
   * 语音室多路音频合流混音
